@@ -22,7 +22,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 \`\`\`bash
-npm run serve
+npm run dev
 \`\`\`
 
 ### Compiles and minifies for production
@@ -42,7 +42,7 @@ For more details, see [Vue CLI Configuration Reference](https://cli.vuejs.org/co
 
 This is a flashcard game that offers an interactive way to learn and test your knowledge. The game features dynamic flashcards that flip when clicked to reveal answers, customizable styles, and winning animations.
 
-![Screenshot of the game](screenshot.png)
+![Screenshot of the game](/public/screenshot.png)
 
 ## Features
 
@@ -66,7 +66,7 @@ To start the development server:
 npm run serve
 \`\`\`
 
-Navigate to \`http://localhost:8080\` in your web browser.
+Navigate to \`http://localhost:5173\#\game\` in your web browser.
 
 ## Components
 
