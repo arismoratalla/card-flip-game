@@ -16,24 +16,24 @@ An interactive card-flipping game built with Vue.js.
 ## Project Setup
 
 ### Installation
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### Compiles and hot-reloads for development
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ### Compiles and minifies for production
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ### Lints and fixes files
-\`\`\`bash
+```bash
 npm run lint
-\`\`\`
+```
 
 ### Customize configuration
 For more details, see [Vue CLI Configuration Reference](https://cli.vuejs.org/config/).
@@ -62,9 +62,9 @@ This is a flashcard game that offers an interactive way to learn and test your k
 
 To start the development server:
 
-\`\`\`bash
+```bash
 npm run serve
-\`\`\`
+```
 
 Navigate to \`http://localhost:5173\#\game\` in your web browser.
 
